@@ -1,2 +1,4 @@
 # Ecole
-Ce Projet consiste en la création des web services java ( with Spring boot)
+Ce Projet de gestion d'une ecole  consiste en la création des web services java ( with Spring boot) 
+
+ 
